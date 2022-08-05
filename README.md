@@ -8,7 +8,7 @@ A simple TODO-WebApplication for you :)
 <li>Flexable & Responsive</li>
 <li>Use Animations</li>
 </ul>
-#Links
+# Links
 <ul>
 <li>Easy To Work</li>
 <li>Flexable & Responsive</li>
@@ -16,8 +16,8 @@ A simple TODO-WebApplication for you :)
 </ul>
 # Links 
 <ul>
-<li>Instagram : <a href="https://www.instagram.com/sir.shahsavar/"></a></li>
-<li>Codepen :   <a href="https://codepen.io/SirShahsavar"></a></li>
+<li>Instagram : <a href="https://www.instagram.com/sir.shahsavar/">Instagram</a></li>
+<li>Codepen :   <a href="https://codepen.io/SirShahsavar"></a>Codepen</li>
 </ul>
 # Status
 <ul>
