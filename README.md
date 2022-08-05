@@ -6,3 +6,7 @@ A simple TODO-WebApplication for you :)
 
   <li>Easy To Work</li>
   <li>Flexable & Responsive</li>
+  
+  
+  # Project Status 
+  <li>Getting better...</li>
