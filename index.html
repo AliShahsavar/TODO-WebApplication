@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0"
+    />
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  </head>
+  <body>
+    <div class="todoContainer">
+      <section class="input-box">
+        <p class="logo">TODO WebApplication</p>
+        <form action="" method="" class="input">
+          <input
+            id="input"
+            maxlength="30"
+            type="text"
+            placeholder="Type Something..."
+          />
+          <i class="material-symbols-outlined"> border_color </i>
+          
+        </form>
+        <div class="iconSection">
+          <label class="switch">
+            <input id="DarkMode" type="checkbox">
+            <span class="slider"></span>
+        </label>
+          <button type="button" id="addIcon" class="material-symbols-outlined"> add </button>
+          <button type="button" id="sweepIcon" class="material-symbols-outlined" > delete_sweep </button>
+        </div>
+      </section>
+      <section class="todosNote"></section>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
